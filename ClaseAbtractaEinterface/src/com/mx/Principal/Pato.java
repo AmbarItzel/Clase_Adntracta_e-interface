@@ -1,3 +1,4 @@
+//Esta es la clase principal donde se dice que se va hacer 
 package com.mx.Principal;
 
 import com.mx.Abstractra.Animal;
