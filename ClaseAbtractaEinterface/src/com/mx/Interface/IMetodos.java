@@ -1,3 +1,4 @@
+//Esta es la clase Interfaz
 package com.mx.Interface;
 
 public interface IMetodos {
