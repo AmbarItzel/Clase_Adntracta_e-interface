@@ -1,3 +1,4 @@
+//Es lo que se va a mostrar
 package com.mx.Principal;
 
 public class Principal {
