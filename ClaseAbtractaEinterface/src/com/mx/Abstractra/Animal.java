@@ -1,3 +1,4 @@
+//Esta es la clase abstracta
 package com.mx.Abstractra;
 
 public abstract class Animal {
